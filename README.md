@@ -176,6 +176,7 @@ This work was supported and funded by the Deanship of Scientific Research at Ima
 
 If you use this code, please cite:
 
+```bibtex
 @article{khalid2025mhcd,
   title={MHCD: A Geometry-Driven Intelligent System for Interpretable Mental Health Comorbidity Discovery},
   author={Khalid, Muhammad Usman and Bashir, Shariq and Wani, Mudasir Ahmad and Shakil, Kashish Ara and Mirjalili, Seyedali},
@@ -183,3 +184,4 @@ If you use this code, please cite:
   year={2025},
   note={Submitted}
 }
+```
