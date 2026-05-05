@@ -54,8 +54,8 @@ pip install sentence-transformers pandas numpy
 ## 📁 File Structure
 
 MHCD/
-├── DASDL.m                       # Disorder-Aware Structured Dictionary Learning (proposed)\\
-├── my_ACSD.m                     # Adaptive Consistent Sequential Dictionary Learning\\
+├── DASDL.m                       # Disorder-Aware Structured Dictionary Learning (proposed)\linebreak
+├── my_ACSD.m                     # Adaptive Consistent Sequential Dictionary Learning\linebreak
 ├── my_ODL.m                      # Online Dictionary Learning (requires SPAMS)\\
 ├── SDL.m                         # Sparse Orthogonal Component Analysis (SOCA)\\
 ├── gICA_exp.m                    # Group ICA baseline\\
