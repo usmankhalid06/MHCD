@@ -120,7 +120,7 @@ Utilities
 
     clean_reddit_post.m - Text preprocessing (remove HTML, URLs, formatting)
     get_sentence_embeddings.m - Generate sentence transformer embeddings
-    litekmeans_k.m, LSICA.m - Supporting routines for clustering and ICA baselines
+    litekmeans_k.m, LSICA.m - Supporting routines for clustering and SOCA baselines
 
 ## 🔧 Key Parameters
 
