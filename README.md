@@ -1,4 +1,4 @@
-# CCMH: Cross-Condition Mental Health Intelligent System
+# MHCD: Mental Health Comorbidity Discovery
 
 This repository contains the code for MHCD (Mental Health Comorbidity Discovery), an intelligent decision support system for quantitative cross-condition mental health analysis using Disorder-Aware Structured Dictionary Learning (DASDL) and Robust PCA fusion.
 
@@ -161,7 +161,7 @@ For questions or issues, please contact:
 
 ## 🙏 Acknowledgments
 
-This work is financially supported by Universiti Brunei Darussalam, Brunei Darussalam, through its University Research Grant scheme (grant number: UBD/RSCH/1.6/FICBF/2024/033).
+This work was supported and funded by the Deanship of Scientific Research at Imam Mohammad Ibn Saud Islamic University (IMSIU).
 
 ## 📚 Citation
 
