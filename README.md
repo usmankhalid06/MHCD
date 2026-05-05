@@ -92,8 +92,14 @@ script_full_code_midCovid
 This will:
 
     Load embeddings from the six per-model .mat files
-    Estimate intrinsic dimensionality (TwoNN) per model
-    Derive K_m and rho_m from the Carathéodory bound
+
+Step 4: Run Main Analysis
+
+% Execute complete pipeline
+script_half_code_midCovid
+
+This will:
+
     Run DASDL and all five baselines (group ICA, K-means, SOCA, ODL, ACSD)
     Apply Robust PCA fusion across the six per-model DASDL outputs
     Generate comorbidity matrices, contrast ratios, and Π-based atom interpretability outputs
