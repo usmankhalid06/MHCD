@@ -114,6 +114,7 @@ Baseline BSS Methods
     kmeans_clustering.m - Divide-and-conquer K-means clustering
 
 For ODL you need to download SPAMS toolbox from here https://thoth.inrialpes.fr/people/mairal/spams/ to run mexOMP and mexLasso. DASDL and the other baselines do not require SPAMS.
+For ICA you need to download fastICA toolbox 
 
 Utilities
 
