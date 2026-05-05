@@ -53,21 +53,23 @@ pip install sentence-transformers pandas numpy
 
 ## 📁 File Structure
 
+\begin{verbatim}
 MHCD/
-├── DASDL.m                       # Disorder-Aware Structured Dictionary Learning (proposed)\linebreak
-├── my_ACSD.m                     # Adaptive Consistent Sequential Dictionary Learning\linebreak
-├── my_ODL.m                      # Online Dictionary Learning (requires SPAMS)\\
-├── SDL.m                         # Sparse Orthogonal Component Analysis (SOCA)\\
-├── gICA_exp.m                    # Group ICA baseline\\
-├── kmeans_clustering.m           # K-means clustering baseline\\
-├── litekmeans_k.m                # Lightweight K-means utility\\
-├── LSICA.m                       # ICA support routines\\
-├── RobustPCA.m                   # Robust PCA fusion across embedding models\\
-├── clean_reddit_post.m           # Text preprocessing\\
-├── get_sentence_embeddings.m     # Sentence transformer interface\\
-├── script_full_code_midCovid.m   # Full pipeline (with embedding generation)\\
-├── script_half_code_midCovid.m   # Pipeline (assuming embeddings saved)\\
+├── DASDL.m                       # Disorder-Aware Structured Dictionary Learning (proposed)
+├── my_ACSD.m                     # Adaptive Consistent Sequential Dictionary Learning
+├── my_ODL.m                      # Online Dictionary Learning (requires SPAMS)
+├── SDL.m                         # Sparse Orthogonal Component Analysis (SOCA)
+├── gICA_exp.m                    # Group ICA baseline
+├── kmeans_clustering.m           # K-means clustering baseline
+├── litekmeans_k.m                # Lightweight K-means utility
+├── LSICA.m                       # ICA support routines
+├── RobustPCA.m                   # Robust PCA fusion across embedding models
+├── clean_reddit_post.m           # Text preprocessing
+├── get_sentence_embeddings.m     # Sentence transformer interface
+├── script_full_code_midCovid.m   # Full pipeline (with embedding generation)
+├── script_half_code_midCovid.m   # Pipeline (assuming embeddings saved)
 └── README.md
+\end{verbatim}
 
 ## 💻 Usage
 
