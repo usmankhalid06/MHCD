@@ -52,6 +52,7 @@ pip install sentence-transformers pandas numpy
 ⚠️ Note: Pre-computed embedding files exceed GitHub's 25 MB upload limit and are not included in this repository. Users must generate the six per-model embeddings locally using get_sentence_embeddings.m before running the main analysis.
 
 ## 📁 File Structure
+
 ```
 MHCD/
 ├── DASDL.m                       # Disorder-Aware Structured Dictionary Learning (proposed)
@@ -66,6 +67,7 @@ MHCD/
 ├── clean_reddit_post.m           # Text preprocessing
 ├── get_sentence_embeddings.m     # Sentence transformer interface
 ├── script_full_code_midCovid.m   # Full pipeline (with embedding generation)
+├── script_half_code_midCovid.m   # Pipeline (assuming embeddings saved)
 └── README.md
 ```
 
