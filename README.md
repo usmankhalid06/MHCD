@@ -66,7 +66,6 @@ MHCD/
 ├── clean_reddit_post.m           # Text preprocessing
 ├── get_sentence_embeddings.m     # Sentence transformer interface
 ├── script_full_code_midCovid.m   # Full pipeline (with embedding generation)
-├── script_half_code_midCovid.m   # Pipeline (assuming embeddings saved)
 └── README.md
 ```
 
