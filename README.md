@@ -181,7 +181,7 @@ If you use this code, please cite:
   title={MHCD: A Geometry-Driven Intelligent System for Interpretable Mental Health Comorbidity Discovery},
   author={Khalid, Muhammad Usman and Bashir, Shariq and Wani, Mudasir Ahmad and Mahmood, Ayesha and Shakil, Kashish Ara and Mirjalili, Seyedali},
   journal={Submitted to Neurocomputing},
-  year={2025},
+  year={2026},
   note={Submitted}
 }
 ```
