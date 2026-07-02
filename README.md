@@ -170,7 +170,8 @@ For questions or issues, please contact:
 
 ## 🙏 Acknowledgments
 
-This work was supported and funded by the Deanship of Scientific Research at Imam Mohammad Ibn Saud Islamic University (IMSIU).
+The authors would like to acknowledge the Princess Nourah bint Abdulrahman University Researchers Supporting Project number (PNURSP2026R757), Princess Nourah bint
+Abdulrahman University, Riyadh, Saudi Arabia.
 
 ## 📚 Citation
 
