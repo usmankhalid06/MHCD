@@ -179,8 +179,8 @@ If you use this code, please cite:
 ```bibtex
 @article{khalid2025mhcd,
   title={MHCD: A Geometry-Driven Intelligent System for Interpretable Mental Health Comorbidity Discovery},
-  author={Khalid, Muhammad Usman and Bashir, Shariq and Wani, Mudasir Ahmad and Shakil, Kashish Ara and Mirjalili, Seyedali},
-  journal={Knowledge-Based Systems},
+  author={Khalid, Muhammad Usman and Bashir, Shariq and Wani, Mudasir Ahmad and Mahmood, Ayesha and Shakil, Kashish Ara and Mirjalili, Seyedali},
+  journal={Submitted to Neurocomputing},
   year={2025},
   note={Submitted}
 }
